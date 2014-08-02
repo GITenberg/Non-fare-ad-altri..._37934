@@ -1,0 +1,2471 @@
+.. -*- encoding: utf-8 -*-
+
+.. meta::
+   :PG.Id: 37934
+   :PG.Title: Non fare ad altri....
+   :PG.Released: 2011-11-05
+   :PG.Rights: Public Domain
+   :PG.Producer: Carlo Traverso
+   :PG.Producer: Claudio Paganelli
+   :PG.Producer: Barbara Magni
+   :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+   :PG.Credits: This file was produced from images generously made available by The Internet Archive.
+   :DC.Creator: Roberto Bracco
+   :DC.Title: Non fare ad altri...
+   :DC.Language: it
+   :DC.Created: 1909
+   :coverpage: images/cover.jpg
+
+.. style:: title
+   :class: center
+
+.. style:: subtitle
+   :class: center
+
+.. role:: small-caps
+   :class: small-caps
+
+.. style:: block_quote
+   :class: small
+
+.. role:: xx-large
+   :class: xx-large
+
+.. role:: x-large
+   :class: x-large
+
+.. role:: large
+   :class: large
+
+.. role:: largeit
+   :class: large italics
+
+.. role:: small
+   :class: small
+
+.. role:: scene
+   :class: italics
+
+=====================
+Non fare ad altri....
+=====================
+
+.. _pg-header:
+
+.. container:: pgheader language-en
+
+   .. style:: paragraph
+      :class: noindent
+
+   This eBook is for the use of anyone anywhere at no cost and with
+   almost no restrictions whatsoever. You may copy it, give it away or
+   re-use it under the terms of the `Project Gutenberg License`_
+   included with this eBook or online at
+   http://www.gutenberg.org/license.
+
+   
+
+   |
+
+   .. _pg-machine-header:
+
+   .. container::
+
+      Title: Non fare ad altri...
+      
+      Author: Roberto Bracco
+      
+      Release Date: November 05, 2011 [EBook #37934]
+      
+      Language: Italian
+      
+      Character set encoding: UTF-8
+
+      |
+
+      .. _pg-start-line:
+
+      \*\*\* START OF THIS PROJECT GUTENBERG EBOOK NON FARE AD ALTRI.... \*\*\*
+
+   |
+   |
+   |
+   |
+
+   .. _pg-produced-by:
+
+   .. container::
+
+      Produced by Carlo Traverso, Claudio Paganelli, Barbara Magni, and the Online Distributed Proofreading Team at http://www.pgdp.net.
+
+      |
+
+      This file was produced from images generously made available by The Internet Archive.
+
+
+.. container:: coverpage
+
+   .. image:: images/cover.jpg
+      :align: center
+
+.. container:: titlepage
+
+   .. class:: center
+
+   | :large:`ROBERTO BRACCO`
+   |
+   | :xx-large:`TEATRO`
+   |
+   | :large:`VOLUME PRIMO`
+   |
+   | **NON FARE AD ALTRI...** — LUI LEI LUI —
+   | UN'AVVENTURA DI VIAGGIO — UNA DONNA —
+   | LE DISILLUSE — DOPO IL VEGLIONE
+   |
+   | :small:`2ª EDIZIONE.`
+   |
+   |
+   |
+   | REMO SANDRON — Editore
+   |
+   | :small:`Libraio della Real Casa`
+   | :small:`MILANO-PALERMO-NAPOLI`
+
+.. container:: verso
+
+   .. class:: center
+
+   PROPRIETÀ LETTERARIA
+
+			*I diritti di riproduzione e di traduzione sono riservati
+			per tutti i paesi, non escluso il Regno di Svezia e quello
+			di Norvegia.*
+
+			È assolutamente proibito di rappresentare questi lavori
+			senza il consenso scritto dell'Autore *(Art. 14 del Testo Unico
+			17 Settembre 1882)*.
+
+			Published in Palermo, 10th. June Privilege of Copyright in the United
+			States reserved under the Act approved March 3rd. 1905, by Roberto Bracco
+			and Remo Sandron.
+
+			Off. Tip. Sandron — 126 — I — 290312.
+
+[pg!5]
+
+
+
+
+*NOTA DELL'EDITORE.*
+====================
+
+*(Dalla edizione precedente)*
+-----------------------------
+
+*Compilando — con un necessario ritardo — il primo
+volume del «Teatro» di* Roberto Bracco, *ho voluto
+raccogliere, oltre le sue prime commedie in un atto e
+il dramma* «Una donna», *anche qualche curioso saggio
+della sua più spicciola e più leggera produzione
+scenica che andava fino alla fiaba con «couplets»
+alla francese e fino allo «scherzo comico» per «cafè-chantant».
+Mi è parso opportuno dare a questo
+primo volume la impronta fedele di quella varietà
+saltuaria con cui Roberto Bracco, tra una corrispondenza
+amena destinata al* «Capitan Fracassa» *e una
+canzoncina destinata alla festa di Piedigrotta, tra
+una novelletta e un articolo critico, inavvedutamente,
+cominciava ad esercitare le sue facoltà di commediografo.
+Erano prove involontarie, pigre e rade,
+non determinate che da circostanze occasionali.*
+
+*Alla ribalta esordì, infatti, scrivendo la breve commedia
+buffa* «Non fare ad altri...» *per soddisfare
+la insistente richiesta di Ermete Novelli, già in rinomanza
+di attor comico. Aveva pubblicate, dopo il
+volume delle* Frottole di baby,
+[pg!6]
+*alcune novelle dialogate,
+chiamandole «novelle in un atto» e ne dovette
+rifare due per la scena:* «Lui Lei Lui» *e* «Un'avventura
+di viaggio», *perchè Arturo Garzes volle
+rappresentare la prima, Pia Marchi la seconda. E
+i quattro atti di* «Una donna» *sarebbero rimasti — com'è
+noto — seppelliti nella sua scrivania, se un suo
+amico intimo, Valentino Gervasi, non li avesse rivelati
+alla gentile precocità artistica di Tina di Lorenzo,
+appena diciottenne. I fogli del manoscritto
+uscirono quasi ingialliti dal nascondiglio dove avevano
+dormito per quattro o cinque anni. L'autore li
+rinverdì mutando qualche cosa, e li consegnò al suggeritore.*
+
+*Queste poche notizie, e qualche altra che i lettori
+troveranno più avanti, mi sono sembrate necessarie
+a completare la fisonomia di questo primo volume del
+«Teatro» di* Roberto Bracco.
+
+*Intanto, mi compiaccio di annunziare la ristampa
+dei volumi già pubblicati: anche di quelli che sono
+ora alla seconda edizione. Sarà una ristampa che
+l'Autore curerà personalmente, sicchè alcune inesattezze
+del testo spariranno. Di qualche lavoro, come
+per esempio, del dramma* «Maternità», *qualche pagina
+sarà addirittura mutata, perchè il testo delle
+precedenti edizioni non è sempre identico a quello che
+l'Autore preferisce per le rappresentazioni.*
+
+   | Maggio, 1909.
+
+.. class:: right
+
+REMO SANDRON.
+
+-----
+
+.. clearpage::
+
+[pg!7]
+
+.. class:: center
+
+| :x-large:`NON FARE AD ALTRI....`
+|
+| :largeit:`Commedia in un atto`
+
+rappresentata per la prima volta al *Sannazaro* di
+*Napoli* da :small-caps:`Ermete Novelli`, la sera del *22 dicembre
+1886*.
+
+[pg!8]
+
+.. clearpage::
+
+[pg!9]
+
+.. class:: center large
+
+PERSONAGGI:
+
+   .. class:: large
+
+   | :small-caps:`Il Commissario di polizia.`
+   | :small-caps:`Il Brigadiere Malomone.`
+   | :small-caps:`La guardia Fasanisi.`
+   | :small-caps:`Oscar Gentiletti.`
+   | :small-caps:`La signora Betta.`
+   |
+   | La scena è in una piccola città di provincia.
+
+.. class:: small
+
+N. B. Quando questa farsa fu scritta, il *Commissario di Polizia*
+si chiamava *Ispettore*. Ma nel testo della farsa qui riprodotto,
+essendo quello ancora talvolta recitato da qualche attor comico, è
+adottato l'attuale titolo di *Commissario*.
+[pg!10]
+
+[pg!11]
+
+
+
+
+ATTO UNICO.
+===========
+
+
+*Il gabinetto del* :small-caps:`Commissario di Polizia`: — *scrivania,
+scaffali, seggiole*, ecc.
+
+
+SCENA I.
+--------
+
+IL COMMISSARIO, IL BRIGADIERE, LA GUARDIA.
+``````````````````````````````````````````
+
+*(Il Commissario è seduto presso la sua scrivania
+con aria grave e autorevole. Ritti, innanzi a lui,
+stanno il brigadiere Malomone, che è molto grasso,
+fornito di foltissimi mustacchi, di foltissime sopracciglie,
+di occhi truci, e la guardia Fasanisi,
+che è un omino magro, sottilissimo.)*
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(ai due)* Continuate, dunque, continuate.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Erano circa le undici, quando io attraversavo per
+caso quella via...
+
+[pg!12]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Questo particolare me lo avete già favorito parecchie
+volte.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+E mi trovavo a una quarantina di passi dal luogo
+del disastro.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Quale disastro?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+La caduta dell'uomo dall'alto del muricciolo.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Voi accorreste al tonfo...
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Al tonfo?... *(Riflette)* Al tonfo?... Non lo so.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ma che cosa non sapete?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(con stupida importanza)* Non so se fu proprio
+un... tonfo.
+
+[pg!13]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Non sentiste cadere l'uomo?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Feci di più, signor Commissario: sentii e vidi:
+ma, quanto al tonfo, in coscienza, non posso dire
+nulla di esatto.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Bestia!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Proprio così. «Siete una bestia!»... dissi io alla
+guardia Fasanisi, perchè non s'era trovata puntualmente
+un poco prima al posto dove l'uomo doveva
+cadere. Un buon piantone certe cose le prevede;
+e Fasanisi, ieri sera, era precisamente lui di piantone
+alla strada che rasenta il giardino appartenente
+alla Signoria Vostra.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ed egli accorse con voi, che..., come mi avete
+fatto sapere, attraversavate...
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere` *e* :small-caps:`Il Commissario`
+
+*(insieme)*... per caso quella via.
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+Io accorsi prima di lui.
+
+[pg!14]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Andate avanti, Malomone!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Sì, signor Commissario: avanti, sempre!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Che pensaste quando vedeste quell'uomo precipitato
+giù dal muro che separa la strada dal giardino
+di casa mia?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Io subito pensai: quest'uomo... è un uomo precipitato
+giù dal muro che separa la strada dal giardino
+del signor Commissario di polizia.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Evidentemente, egli, dal giardino, voleva uscire
+di nascosto...
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Ed io, senza perdere tempo, gli domandai: perchè
+volevate uscire di nascosto dal giardino del
+signor Commissario di polizia?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+L'uomo s'imbarazzò?
+
+[pg!15]
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(riflette)* Non lo so... perchè era ancora disteso a
+terra.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+E che rispose?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Rispose: *(riflette)* «Ho un fianco rotto.» Allora
+io gli dissi: «voi siete un ladro.» Allora egli mi
+disse: «sì, sono un ladro.» Allora io gli dissi:
+«voi siete in arresto.» Allora egli mi disse: «sì,
+sono in arresto.»
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Non oppose resistenza?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Signor Commissario, si lasciò arrestare come un
+galantuomo. Io e Fasanisi, gentilmente, lo afferrammo
+per il collo e lo andammo a depositare in
+prigione.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Cammin facendo, che aspetto ebbe?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(riflette)* Signor Commissario, nessun aspetto!
+
+[pg!16]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Dio buono, voglio dire: che contegno serbò?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Ah! il contegno non lo so.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(canzonando)* Perchè forse era ancora disteso a
+terra?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+No. Cammin facendo, non era più disteso a terra.
+Era...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+In piedi?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Nemmeno. Era... zoppicante.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(alla guardia)* E voi, Fasanisi, avete altro da aggiungere?
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+Sì, signor Commissario.
+
+[pg!17]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Aggiungete!
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(a voce alta)* Io accorsi prima di lui.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Non è vero!
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(alzando viepiù la voce)* Io accorsi prima di lui...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Basta così, Fasanisi! Il brigadiere ha ragione,
+perchè è vostro superiore. E questo è tutto ciò che
+avevate da aggiungere?
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+Questo. *(Continua a dire per conto suo, borbottando:)*
+Io accorsi prima di lui... Io accorsi prima
+di lui...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ora è necessario *(scrivendo in fretta un biglietto)*
+ch'io sappia che cosa è riuscito a rubarmi quel
+farabutto. Fasanisi, questo biglietto a casa mia.
+*(Glielo consegna.)* Subito!
+
+[pg!18]
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(va via borbottando ancora:)* Io accorsi prima di
+lui...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Eh, perbacco! Un ladro che va a rubare in casa
+del Commissario di polizia deve essere un bel cretino!
+Che ne dite, Malomone?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Ecco, signor Commissario. Una volta mi avvenne
+un fatto simile. Un mariuolo, senza curarsi
+ch'io ero un brigadiere di polizia, mi rubò il fazzoletto
+dalla saccoccia.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Oh! imbecille!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Chi?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Voi!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(piantandosi da bravo militare)* Precisamente!
+L'imbecille è sempre il derubato!
+
+[pg!19]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(seccato)* Malomone, introducete l'arrestato. *(Il
+brigadiere esce.)* E adesso facciamo la conoscenza
+di quest'altro bell'arnese! *(Pensando e ricordandosi)*
+Sicuro! Alle undici pomeridiane, io entro in
+casa... È evidente: il ladro teme di essere sorpreso,
+si dà alla fuga, e patapuffete! giù dal muricciolo.
+Si lascia arrestare perchè... ha un fianco
+rotto, e, cammin facendo, serba, come assicura
+Malomone, un contegno... zoppicante. Tutto mi è
+completamente chiaro, e con me non c'è troppo
+da scherzare...
+
+
+SCENA II.
+---------
+
+IL COMMISSARIO, IL BRIGADIERE *e* OSCAR.
+````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(entra, tirando pel braccio Oscar Gentiletti, che
+è un bel giovine sulla trentina, elegantemente vestito.)*
+Ecco il malfattore!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Eh! non c'è bisogno di trascinarmi così...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(a Oscar, in tono burbero e dignitoso)* Avanzatevi!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(lievemente zoppicando, si avanza e s'inchina cortesemente)*
+Servo suo, cavaliere.
+
+[pg!20]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(con orgogliosa compiacenza)* Ma come fate a sapere
+che sono cavaliere?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Le si legge in fronte.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Grazie! *(Dopo averlo guardato attentamente da
+capo a piedi, chiama a sè il brigadiere:)* Malomone,
+venite qua. *(Il brigadiere gli si accosta.)* Sentite,
+*(Sottovoce, all'orecchio)* Siete certo d'avermi introdotto
+l'individuo che arrestaste iersera?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Vostra Signoria mi crederebbe capace d'introdurle
+un individuo per un altro?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+No, ma gli è che quegli abiti... quel volto...
+quel... quel...
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Gli si vede subito il delinquente, signor Commissario.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Credete che gli si veda subito? Quand'è così,
+*(disponendosi a scrivere)* procediamo all'interrogatorio.
+[pg!21]
+*(A Oscar, bruscamente)* Ehi! dico, il vostro
+nome?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Oscar Gentiletti.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Età?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Trent'anni.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(piano, al brigadiere)* Malomone, trent'anni! Non
+li dimostra.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(con profonda convinzione e sicurezza)* Ma li ha!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(a Oscar)* Domicilio?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Strada San Petronio, numero sette, primo piano,
+porta a destra.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Professione?
+
+[pg!22]
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(subitamente)* Ladro.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(annotando, tra sè)* Evviva la franchezza! *(Con
+disgusto)* Sicchè, voi avete dedicata la vostra vita...?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+A rubare.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(violentemente)* Vergogna!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(con delicatezza insinuante)* Scusi, cavaliere, abbia
+la cortesia di astenersi da qualunque commento
+o rimbrotto. Veda, è questione di vocazione: lei
+fa il Commissario di polizia, io faccio il ladro. E
+in questo momento, ne sono tanto più lieto, inquantochè,
+essendo ladro, io ho il piacere di poterle
+dedicare la mia servitù.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(imbarazzandosi)* Oh!... troppo buono... Accomodatevi...
+si accomodi... prego... segga... deponga...
+il cappello.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(sedendo e posando il cappello)* Per accontentarla...
+
+[pg!23]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Dunque..., signor ladro..., voi confessate... lei
+confessa che ieri sera s'intromise nel giardino di
+casa mia per...
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(premuroso)* Per commettere un furto.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ma...
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(con risentimento)* Metterebbe ella in dubbio la
+mia parola?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Oh no!, tutt'altro! Le pare! Ma..., ed ecco ciò
+che stavo per dire,... come va, egregio signor ladro,
+come va che le saltò il ticchio di commettere
+un furto proprio in mia casa, — in casa del Commissario
+di polizia?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Le dirò... I pubblici funzionarii sono la mia
+specialità.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ah! me ne compiaccio. E..., perdoni, veh, se
+l'importuno con tante domande, ma, sa, se io non
+[pg!24]
+domandassi, lei non mi risponderebbe... Dunque,
+dicevo: come fece per intromettersi nel giardino?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+In un modo semplicissimo: sfuggendo alla vigilanza
+d'una guardia... che dormiva, e scavalcando
+il muro dove questo è molto basso.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(al brigadiere)* Malomone, sentite, eh?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Sento, signor Commissario.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+La guardia dormiva.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Signor Commissario, quella guardia che dormiva
+era la guardia Fasanisi. Potevano essere circa le
+undici quando io attraversavo....
+
+.. class:: center
+
+| :small-caps:`Il Commissario e Il Brigadiere`
+
+*(insieme)*... per caso quella via.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Lo so. Tacete, ora. *(A Oscar)* E... se non sono
+troppo indiscreto..., dica: perchè, poi, nella fuga,
+[pg!25]
+ella andò a scavalcare il muro dove esso è più
+alto?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Capirà: non avevo mica l'intenzione di capitombolare,
+io. Ma gli è che non ero pratico del giardino.
+Era quella la prima volta che ci mettevo il
+piede, e, nel buio, correndo, sbagliai la strada.
+*(Involontariamente)* Un'altra volta, starò più attento...
+Pardon... dico per dire....
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(alzandosi e avvicinandosi a Oscar)* E se dice per
+fare, s'inganna a partito, perchè, sa, con tutto il
+rispetto dovuto a un ladro per bene come lei, la
+giustizia provvederà.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Torniamo a bomba, cavaliere. Su questo, siamo
+d'accordo. Io m'intromisi nel suo giardino per commettere
+un furto.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Benone! *(Con furberia ed intimità, sedendogli
+accanto)* Dal giardino, ella passò nel salottino di
+casa mia....
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Appunto: in quel grazioso salottino turco... con
+quei ventaglioni... quei tappeti... quelle anfore...
+quel microscopico scrignetto di madreperla....
+
+[pg!26]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Sì, lo scrignetto è carino. L'ho comperato all'Esposizione
+di Parigi, e ci tengo!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Ha ragione!... E quei *biscuits* civettuoli!... E
+quei gingilli!... Oh! un salottino delizioso!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Pih! non c'è malaccio; ma, per ora, sa, è abbozzato.
+Bisogna che io faccia ancora delle spese.... E
+se lei mi onorerà... *(correggendosi e impacciandosi)*
+Cioè... no: se lei... mi ruberà... cioè....
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(vivamente)* Io ho già rubato, cavaliere! Ho già
+rubato!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Dunque, reo confesso?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Nè più, nè meno.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(dopo aver ammiccato al brigadiere)* Tanto meglio!
+Ci dica, ora, che cosa ha rubato. I danari
+contenuti nello scrigno?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No!
+
+[pg!27]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+I ninnoli d'argento?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Gli oggetti d'avorio?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Il tamtam giapponese?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+I ventagli? le anfore? i tappeti? le seggiole? i
+muri?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No! No!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(infuriato)* Ma allora che diavolo ha rubato, lei?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Già! Che diavolo ho rubato, io?
+
+[pg!28]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Probabilmente, ella tentò di rubare, ma non potette
+consumare il furto.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Che ho da dirle...?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(in tono confidenziale)* E sa lei perchè non riescì
+a consumarlo?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No....
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Lei non riescì a consumarlo, perchè verso le undici....
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+... io attraversavo per caso quella via....
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Zitto, Malomone! Non è questa la ragione. *(A
+Oscar)* Lei non riescì a consumare il furto perchè
+verso le undici sentì un rumore.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(di scatto)* Verissimo!
+
+[pg!29]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ebbene, *(con alterigia)* quel rumore... ero io!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Ahimè, cavaliere, le giuro sul mio onore che ella
+giunse a tempo!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Sicchè, lei ritira la confessione?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+La ritiro!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(tutto tronfio, ritornando alla scrivania)* E adesso,
+Malomone, facciamo il nostro dovere e procediamo
+alla regolare perquisizione dell'arrestato.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Ma sono già stato perquisito ieri sera.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Malomone, trovaste armi bianche?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+No, signor Commissario.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Armi da fuoco?
+
+[pg!30]
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Da fuoco, soltanto una scatola di fiammiferi.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Frugaste nelle saccocce? Sequestraste oggetti,
+carte, grimaldelli?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Non sequestrai, signor Commissario, perchè non
+frugai.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Cosicchè, è necessaria una seconda e minuta
+perquisizione.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+.. class:: center
+
+*(s'avvicina a Oscar.)*
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(in orgasmo)* Le assicuro, cavaliere, che se avessi
+qualche cosa da esibire alla giustizia, mi farei
+un pregio di offrirla a lei. Ma è inutile fare una
+perquisizione quando non c'è nulla da trovare...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(con sussiego)* Le perquisizioni si fanno quasi
+sempre allo scopo di non trovare niente! Malomone,
+perquisite.
+
+[pg!31]
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+.. class:: center
+
+*(mette le mani addosso a Oscar.)*
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(ribellandosi)* Ah! questo poi no! *(cerca di svincolarsi.)*
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(con austerità e calore)* Signor ladro, lasciate
+che l'autorità competente eserciti pienamente il
+suo potere sulla vostra persona!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(convellendosi)* Ma mi fa il solletico!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(cacciandogli le mani nelle saccocce e palpandolo
+dappertutto)* Taci, furfante!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Ah ah ah... mi fa il solletico....
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(cavando fuori gli oggetti a uno a uno)* Signor
+Commissario, un orologio *(con solennità)* à remontoir.
+Catena... idem! La scatola di fiammiferi... suddetta!
+Un portasigari... senza sigari! Un fazzoletto
+*(annusandolo)* profumato, molto profumato...
+*(Porge tutto al Commissario.)*
+
+[pg!32]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(annusando anche lui il fazzoletto)* Opoponax!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(spalancando gli occhi come per una allarmante
+scoperta)* Perdio! *(Indi, continua a frugare.)*
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Basta, ora! Basta!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Taci, furfante! *(palpa ancora)*... E questo è un
+portafogli... gravido anzi che no! *(Lo consegna al
+Commissario.)*
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(pallidissimo)* È fatta!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Non c'è altro?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Non c'è altro.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(con grande gravità)* Esaminiamo i reperti. *(Osserva
+l'orologio, la catena, la scatola, il fazzoletto,
+il portasigari, e borbotta:)* Orologio à remontoir, — catena...
+[pg!33]
+idem, — eccetera... eccetera... *(Quindi,
+apre il portafogli e ne guarda il contenuto, mentre
+Oscar, affisandolo, allibisce e, senza fiatare, aspetta. — A
+un tratto, il Commissario, cavando una fotografia
+da una busta, spalanca gli occhi, e, con un
+gesto di raccapriccio, esclama tra sè:)* Il ritratto di
+mia moglie!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(notando l'emozione)* Il signor Commissario ha
+forse trovato...?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(furibondo)* Un corno!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Del signor Commissario?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(padroneggiandosi)* Ritiratevi, voi!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(andandosene)* Sarà un oggetto di grande valore.
+*(via)*.
+
+[pg!34]
+
+
+SCENA III.
+----------
+
+IL COMMISSARIO *e* OSCAR.
+`````````````````````````
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+.. class:: center
+
+*(resta immobile, con gli sguardi fissi a terra.)*
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(abbandona la testa fra le mani, e, dopo una
+lunga pausa, si risolve, dignitosamente e autorevolmente,
+a parlare.)* Questo, o signore, è il ritratto
+di mia moglie.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+No!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Come «no»? Non mi verrete voi a insegnare la
+faccia di mia moglie!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Ebbene, ne convengo: questo è... presso a poco...
+il ritratto di sua moglie. Ma... l'ho rubato. Glie
+l'avevo detto io. Cavaliere, la prego di credere che
+io sono un ladro.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Oh! finiamola! C'è la dedica che vi smentisce.
+*(legge:)* «Al mio Oscar — Betta». E poi, più sotto:
+«Ore dieci e mezzo, 25 ottobre 1883»: la data di
+[pg!35]
+ieri. *(Continuando a leggere:)* «Prologo del nostro
+amore». — Orrore!... *(si mette le mani nei capelli.)*
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Via, cavaliere, non si disperi così! Che cos'è, poi,
+un prologhetto?!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(con solennità)* Come vedete, o signore, voi non
+siete più un ladro; *(con disprezzo)* voi siete semplicemente
+un uomo come un altro!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(desolato)* Sventurato me!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ed io non sono più il Commissario di polizia:
+no! *(Con pari disprezzo)* io sono un marito... come
+tanti altri! *(Pausa.)* Prendete i vostri oggetti, signore.
+*(Glieli rende.)* Questo ritratto mi basterà
+per fare arrossire quella donna! *(Lo rimette nella
+busta, e lo caccia in una tasca interna del soprabito.)*
+Sarò inesorabile!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Cavaliere, lei mi è testimonio che io ho fatto
+tutto il possibile per salvarla. Le raccomando:
+glielo dica; mi giustifichi lei; non mi faccia fare
+una cattiva figura!
+
+[pg!36]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(con gentilezza)* Oh! non dubiti! Lei si è regolato
+benissimo: da perfetto gentiluomo.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Grazie, cavaliere!
+
+
+SCENA IV.
+---------
+
+IL COMMISSARIO, OSCAR, BETTA *e* LA GUARDIA.
+````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(di dentro)* È permesso?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Entrate.
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(fermandosi sulla soglia)* Signor Commissario,
+ho consegnato il biglietto alla sua signora. Ella è
+qui!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Lei!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Giunge a proposito. Dite che favorisca.
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+.. class:: center
+
+*(va via.)*
+
+[pg!37]
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(entra disinvolta)* Son venuta io stessa a... *(Sorpresa
+e sconcertata, tra sè)* Oscar!... *(Al commissario,
+sforzandosi di nascondere l'impressione ricevuta)*
+Son venuta io stessa a....
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(trattenendo l'ira)* A darmi i chiarimenti che
+desidero.
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+Si tratterebbe d'un furto commesso in casa nostra.
+Mi pare che m'hai scritto così. Ma come? Ma
+quando? Non capisco. In casa ho rovistato dappertutto,
+e non manca assolutamente nulla.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ah sì? Assolutamente nulla? Il caso è davvero
+singolare. Un ladro è, senza dubbio, penetrato in
+casa nostra poco prima delle dieci e mezzo di iersera;
+e quindi, dandosi alla fuga, è cascato dal
+muro del giardino e s'è fracassato....
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(ansiosa)* S'è fracassato?...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(sogghignando)* Quasi niente; ma, in compenso,
+è stato arrestato!
+
+[pg!38]
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(parlando a stento)* Ma era, poi, certamente un
+ladro?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Non è vero, Oscar Gentiletti? Avete voi confessato
+d'essere un ladro?
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(balbettando)* Sì, cavaliere....
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+.. class:: center
+
+*(ha un sorriso di gratitudine.)*
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+E, intanto, in casa nostra, non manca assolutamente
+nulla! Anzi, forse, chi sa, a cercar bene,...
+ci si troverebbe qualche cosa di più!
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+È strano!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+È stranissimo! Ma udite, udite, moglie mia,
+quest'altro particolare anche più strano. Io ho fatto
+perquisire il ladro.... Ebbene, gli è stato trovato
+indosso... *(ringhiando)* il vostro ritratto! *(in fretta,
+cava di tasca una fotografia e gliela getta innanzi.)*
+
+[pg!39]
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(raccogliendo il ritratto e animandosi d'un subito)*
+Il ritratto della nostra serva!!?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(in un sussulto di rabbia e mortificazione, tra sè)*
+Maledetto!... mi sono sbagliato!...
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(riacquistando coraggio)* E c'è perfino una dedica,
+e che dedica! È firmata «Teresina», e dice: *(legge:)*
+«Al mio *amatisime Cucù*».
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(fingendo meraviglia)* *Cucù*!?
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*Cucù*!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*Cucù*!!
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+Ah! ora comprendo!... *(Con malizia)* Il signore...
+come si chiama?... insomma il signor *Cucù*... è
+un ladro di cuori. Ma è discreto. Si contenta di
+rubare quello delle serve.
+
+[pg!40]
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(tra sè, rallegrandosi)* Magnifico!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(a Betta, fremendo)* Smettete, signora moglie!
+Il ritratto trovato indosso a lui è un altro... *(Lo
+cerca nelle tasche.)*
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(seria)* Prego, signor marito. Se possedeste il
+ritratto della nostra serva senza averlo trovato indosso
+all'amante di lei, l'*amatisime Cucù* non sarebbe
+più lui *(indicando Oscar)*, ma, caro Commissario,
+sareste voi! A conti fatti, non vi resta che
+mettere in libertà l'amante. Quanto a me, provvederò
+a mettere in libertà... la serva!
+
+
+SCENA V.
+--------
+
+IL COMMISSARIO, OSCAR, BETTA, IL BRIGADIERE, *poi* LA GUARDIA.
+``````````````````````````````````````````````````````````````
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(mordendosi le labbra, suona il campanello. Il
+brigadiere compare)* Malomone, liberate il signore!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Il ladro?
+
+[pg!41]
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Ma che ladro!... Purtroppo, egli è innocente!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(avvicinandosi a Oscar e stringendogli la mano)*
+Le mie congratulazioni!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(piano a Malomone)* Sì, sì, ma sarebbe meglio
+che pensaste ai casi vostri quando alle undici della
+sera state in colloquio amoroso... con qualche
+Teresina... presso il giardino del Commissario!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(a bassa voce, in preda a una forte commozione)*
+Avete detto al signor Commissario d'avermici visto?!
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Naturalmente. *(Tra sè)* Ora li servo io tutti e due!
+*(A Malomone)* Egli aspetta che vi discolpiate.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(con una risoluzione coraggiosa si rivolge al
+Commissario, gridando.)* Signor Commissario!...
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(che era assorto, salta dalla sedia.)* Cos'è?!
+
+[pg!42]
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Erano circa le undici quando io... non attraversavo
+per caso quella via.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(infastidito)* Non me ne importa niente!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Io debbo discolparmi, signor Commissario!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Auff! Discolpatevi, ma... velocemente.
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Noi due ci parlavamo, è vero; ma essa era
+dentro, ed io ero fuori!
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+Essa, chi?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+Teresina.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(trasalendo)* Teresina!?
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(piantandosi militarmente e portando la mano
+alla visiera, come se urgesse il saluto militare.)*
+[pg!43]
+Signor commissario..., è la natura che lo vuole!
+Io sono giovane... ella è giovane... siamo giovani
+tutti e due... Ci vedemmo, ci piacemmo, ci guardammo,
+ci parlammo, ci amammo.
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+Oh! questa è carina! Il brigadiere è il rivale
+di *Cucù*.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(scoppiando)* Ed è così, Malomone, che la sera
+vegliate alla sicurezza della città? Voi mentite al
+Commissario di polizia, voi testimoniate il falso,
+voi disonorate la divisa di brigadiere! La vostra
+condotta, Malomone, è scandalosa. *(Suona il campanello.
+Si avanza la guardia Fasanisi.)* Fasanisi,
+mettete agli arresti il brigadiere Malomone.
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+Insieme col ladro?
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+No! del ladro non so che farmene!
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(a Malomone)* Brigadiere Malomone, in nome
+della legge io vi arresto!
+
+.. class:: center
+
+| :small-caps:`Il Brigadiere`
+
+*(consegnandogli tragicamente la daga)* Teresina,
+tutto per te! *(A un cenno di Fasanisi, va via a
+passi gravi, col capo chino e le braccia piegate.)*
+
+[pg!44]
+
+.. class:: center
+
+| :small-caps:`La Guardia`
+
+*(seguendolo maestosamente)* Io accorsi prima di
+lui....
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+*(tutto cerimonioso, va a stringere la mano al
+Commissario)* Cavaliere, scusi l'incomodo....
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(inconsciamente cerimonioso anche lui, l'accompagna
+sino alla porta)* Oh! si figuri....
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+Fortunatissimo d'averla conosciuta....
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+La fortuna è tutta mia.... Si conservi...
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+A rivederla.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+A rivederla.
+
+.. class:: center
+
+| :small-caps:`Oscar`
+
+.. class:: center
+
+*(esce.)*
+
+[pg!45]
+
+.. class:: center
+
+| :small-caps:`Betta`
+
+*(si avvicina al Commissario: gli sorride sardonicamente,
+e, con voce melliflua, gli dice:)* Quando
+amate sul serio, caro Commissario, siete vendicativo
+coi vostri rivali. Avete punito il brigadiere...
+della serva; ma non avete sentito il bisogno di
+punire il ladro... della moglie.
+
+.. class:: center
+
+| :small-caps:`Il Commissario`
+
+*(solenne)* Signora! Vi prego di credere... che la
+legge non è uguale per tutti! Cioè no.... Che diavolo
+mi fate dire!...
+
+.. vspace:: 2
+
+.. class:: center
+
+| :scene:`(Sipario.)`
+
+|
+|
+|
+|
+|
+
+.. _pg_end_line:
+
+\*\*\* END OF THIS PROJECT GUTENBERG EBOOK NON FARE AD ALTRI.... \*\*\*
+
+.. backmatter::
+
+.. toc-entry::
+   :depth: 0
+
+.. _pg-footer:
+
+.. class:: pgfooter language-en
+
+A Word from Project Gutenberg
+=============================
+
+We will update this book if we find any errors.
+
+This book can be found under: http://www.gutenberg.org/ebooks/37934
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules, set
+forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg™ electronic works to
+protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.
+They may be modified and printed and given away – you may do
+practically *anything* with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+.. _Project Gutenberg License:
+
+The Full Project Gutenberg License
+----------------------------------
+
+*Please read this before you distribute or use this work.*
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+http://www.gutenberg.org/license.
+
+
+Section 1. General Terms of Use & Redistributing Project Gutenberg™ electronic works
+````````````````````````````````````````````````````````````````````````````````````
+
+**1.A.** By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound by
+the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+**1.B.** “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg™ electronic
+works. See paragraph 1.E below.
+
+**1.C.** The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is in the public domain in the United
+States and you are located in the United States, we do not claim a
+right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting free
+access to electronic works by freely sharing Project Gutenberg™ works
+in compliance with the terms of this agreement for keeping the Project
+Gutenberg™ name associated with the work. You can easily comply with
+the terms of this agreement by keeping this work in the same format
+with its attached full Project Gutenberg™ License when you share it
+without charge with others.
+
+
+
+**1.D.** The copyright laws of the place where you are located also
+govern what you can do with this work. Copyright laws in most
+countries are in a constant state of change. If you are outside the
+United States, check the laws of your country in addition to the terms
+of this agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work.  The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+**1.E.** Unless you have removed all references to Project Gutenberg:
+
+**1.E.1.** The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere at no cost and with
+  almost no restrictions whatsoever. You may copy it, give it away or
+  re-use it under the terms of the Project Gutenberg License included
+  with this eBook or online at http://www.gutenberg.org
+
+**1.E.2.** If an individual Project Gutenberg™ electronic work is
+derived from the public domain (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work
+can be copied and distributed to anyone in the United States without
+paying any fees or charges. If you are redistributing or providing
+access to a work with the phrase “Project Gutenberg” associated with
+or appearing on the work, you must comply either with the requirements
+of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of
+the work and the Project Gutenberg™ trademark as set forth in
+paragraphs 1.E.8 or 1.E.9.
+
+**1.E.3.** If an individual Project Gutenberg™ electronic work is
+posted with the permission of the copyright holder, your use and
+distribution must comply with both paragraphs 1.E.1 through 1.E.7 and
+any additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works posted
+with the permission of the copyright holder found at the beginning of
+this work.
+
+**1.E.4.** Do not unlink or detach or remove the full Project
+Gutenberg™ License terms from this work, or any files containing a
+part of this work or any other work associated with Project
+Gutenberg™.
+
+**1.E.5.** Do not copy, display, perform, distribute or redistribute
+this electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+**1.E.6.** You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format other
+than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ web site
+(http://www.gutenberg.org), you must, at no additional cost, fee or
+expense to the user, provide a copy, a means of exporting a copy, or a
+means of obtaining a copy upon request, of the work in its original
+“Plain Vanilla ASCII” or other form. Any alternate format must include
+the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+**1.E.7.** Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+**1.E.8.** You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works provided
+that
+
+.. class:: open
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method you
+  already use to calculate your applicable taxes. The fee is owed to
+  the owner of the Project Gutenberg™ trademark, but he has agreed to
+  donate royalties under this paragraph to the Project Gutenberg
+  Literary Archive Foundation. Royalty payments must be paid within 60
+  days following each date on which you prepare (or are legally
+  required to prepare) your periodic tax returns. Royalty payments
+  should be clearly marked as such and sent to the Project Gutenberg
+  Literary Archive Foundation at the address specified in Section 4,
+  “Information about donations to the Project Gutenberg Literary
+  Archive Foundation.”
+
+- You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+- You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
+
+**1.E.9.** If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and
+Michael Hart, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
+
+**1.F.**
+
+**1.F.1.** Project Gutenberg volunteers and employees expend
+considerable effort to identify, do copyright research on, transcribe
+and proofread public domain works in creating the Project Gutenberg™
+collection. Despite these efforts, Project Gutenberg™ electronic
+works, and the medium on which they may be stored, may contain
+“Defects,” such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+**1.F.2.** LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the
+“Right of Replacement or Refund” described in paragraph 1.F.3, the
+Project Gutenberg Literary Archive Foundation, the owner of the
+Project Gutenberg™ trademark, and any other party distributing a
+Project Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+**1.F.3.** LIMITED RIGHT OF REPLACEMENT OR REFUND – If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+**1.F.4.** Except for the limited right of replacement or refund set
+forth in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH
+NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+**1.F.5.** Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+**1.F.6.** INDEMNITY – You agree to indemnify and hold the Foundation,
+the trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in accordance
+with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg™
+``````````````````````````````````````````````````````````````
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will remain
+freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future generations. To
+learn more about the Project Gutenberg Literary Archive Foundation and
+how your efforts and donations can help, see Sections 3 and 4 and the
+Foundation web page at http://www.pglaf.org .
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+``````````````````````````````````````````````````````````````````````````````
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf . Contributions to the
+Project Gutenberg Literary Archive Foundation are tax deductible to
+the full extent permitted by U.S.  federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are
+scattered throughout numerous locations. Its business office is
+located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
+
+For additional contact information:
+
+ | Dr. Gregory B. Newby
+ | Chief Executive and Director
+ | gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+```````````````````````````````````````````````````````````````````````````````````````````
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing
+the number of public domain and licensed works that can be freely
+distributed in machine readable form accessible by the widest array of
+equipment including outdated equipment. Many small donations ($1 to
+$5,000) are particularly important to maintaining tax exempt status
+with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5. General Information About Project Gutenberg™ electronic works.
+`````````````````````````````````````````````````````````````````````````
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg™ eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the
+U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected *editions* of our eBooks replace the old file and take over
+the old filename and etext number. The replaced older file is
+renamed. *Versions* based on separate sources are treated as new
+eBooks receiving new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search
+facility:
+
+  http://www.gutenberg.org
+            
+This Web site includes information about Project Gutenberg™, including
+how to make donations to the Project Gutenberg Literary Archive
+Foundation, how to help produce our new eBooks, and how to subscribe
+to our email newsletter to hear about new eBooks.
+
